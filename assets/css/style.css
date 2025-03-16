@@ -6,6 +6,10 @@ body {
     line-height: 1.6;
 }
 
+a:contact{
+    margin-right: 10px;
+}
+
 nav {
     display: flex;
     justify-content: center;
